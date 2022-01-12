@@ -21,7 +21,7 @@
 
     "require-dev": {
         "codeigniter4/codeigniter4": "dev-develop",
-        "codeigniter4/codeigniter4-standard": "^1.0",
+        "codeigniter4/codeigniter4-standard": "^1.0"
     },
     "autoload": {
         "psr-4": {
